@@ -1,3 +1,6 @@
 [submodule "apfb-fe"]
 	path = apfb-fe
 	url = https://github.com/memisemre/apfb-fe.git
+[submodule "apfb-be"]
+	path = apfb-be
+	url = https://github.com/memisemre/apfb-be
